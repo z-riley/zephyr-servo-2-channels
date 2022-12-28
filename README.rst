@@ -1,6 +1,5 @@
-.. _servo-motor-sample:
 
-Servomotor
+Servomotor 2-Channels
 ##########
 
 Overview
@@ -24,5 +23,5 @@ ground and the white wire to P0.04 and P0.05.
 Building and Running
 ********************
 
-The sample has a devicetree overlay for the nRF5340 DK
+The sample has a devicetree overlay for the nRF5340 DK.
 
